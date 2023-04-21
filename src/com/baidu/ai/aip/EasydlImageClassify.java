@@ -1,8 +1,6 @@
 
 package com.baidu.ai.aip;
 
-import com.baidu.ai.aip.utils.HttpUtil;
-
 import java.util.HashMap;
 import java.util.Map;
 
